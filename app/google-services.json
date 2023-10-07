@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "518511502433",
+    "project_id": "storytale-a22d6",
+    "storage_bucket": "storytale-a22d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518511502433:android:761904ab92a749d6f6f620",
+        "android_client_info": {
+          "package_name": "com.example.signinup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Z592BS27cRsh8kPIdWeOQooCkUxt2Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518511502433:android:906226a235b3492cf6f620",
+        "android_client_info": {
+          "package_name": "com.example.storytale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Z592BS27cRsh8kPIdWeOQooCkUxt2Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
